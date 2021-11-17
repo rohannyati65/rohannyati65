@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohannyati65
 - 👀 Python Enthusiast
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and Sql
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me rohannyati65@gmail.com
 
